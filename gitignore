@@ -1,0 +1,22 @@
+# Entorno virtual
+venv/
+env/
+.venv/
+
+# Archivos compilados / cache de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Configuración de Flask / variables de entorno
+instance/
+.env
+.flaskenv
+
+# Editores / IDE
+.vscode/
+.idea/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
